@@ -1,6 +1,5 @@
-# backend/requirements.txt
-transformers
-torch
-pandas
-flask
-flask-cors
+Flask==2.2.5
+flask-cors==3.1.1
+pandas==1.5.3
+numpy==1.24.3
+werkzeug==2.2.3
